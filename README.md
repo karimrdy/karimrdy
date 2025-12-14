@@ -12,16 +12,16 @@
 ╚══════════════════════════════════════════════════════════════╝
 </pre>
 
-**Elite Full-Stack WordPress Developer** with 8+ years mastering high-performance web apps,
+**Elite Full-Stack Developer** with 8+ years mastering high-performance web apps,
 e-commerce ecosystems (WooCommerce), and AI-powered automation workflows. Expert in design-to-code
 (Figma/XD/PSD), Core Web Vitals optimization, n8n/Zapier/Make integrations, and scalable architecture.
-S-Rank in PHP, JavaScript, React—transforming complex challenges into elegant solutions.
+S-Rank in PHP, JavaScript, React, transforming complex challenges into elegant solutions.
 
 <!-- System Notification Style -->
 <pre>
 @@  SYSTEM NOTIFICATION  @@
 + ✓ Character Profile Loaded
-+ ✓ Class: WordPress Developer [Level 8+]
++ ✓ Class: Full-Stack Developer [Level 8+]
 + ✓ Specialization: Performance Optimization & E-commerce
 + ✓ Status: AVAILABLE FOR MISSIONS
 </pre>
