@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0099ff&height=200&section=header&text=KARIM%20RAOUDY&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=8%2B+Years+WordPress+Master;S-Rank+Full-Stack+Developer;100%25+Mission+Success+Rate;Available+for+New+Quests" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=8%2B+Years+WordPress+Master;React+%26+React+Native+Developer;S-Rank+Full-Stack+Developer;100%25+Mission+Success+Rate;Available+for+New+Quests" alt="Typing SVG" />
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
@@ -13,16 +13,16 @@
 </pre>
 
 **Elite Full-Stack Developer** with 8+ years mastering high-performance web apps,
-e-commerce ecosystems (WooCommerce), and AI-powered automation workflows. Expert in design-to-code
+e-commerce ecosystems (WooCommerce), React applications, and AI-powered automation workflows. Expert in design-to-code
 (Figma/XD/PSD), Core Web Vitals optimization, n8n/Zapier/Make integrations, and scalable architecture.
-S-Rank in PHP, JavaScript, React, transforming complex challenges into elegant solutions.
+S-Rank in PHP, JavaScript, WordPress, with solid experience building React & React Native applications.
 
 <!-- System Notification Style -->
 <pre>
 @@  SYSTEM NOTIFICATION  @@
 + ✓ Character Profile Loaded
 + ✓ Class: Full-Stack Developer [Level 8+]
-+ ✓ Specialization: Performance Optimization & E-commerce
++ ✓ Specialization: WordPress, React & Performance Optimization
 + ✓ Status: AVAILABLE FOR MISSIONS
 </pre>
 
@@ -62,7 +62,7 @@ CSS3      : [∞] ████████████ S-RANK
 SASS/SCSS : [∞] ████████████ S-RANK
 JavaScript: [∞] ████████████ S-RANK
 
-React     : [95] ██████████░░ A-RANK
+React/RN  : [92] █████████░░░ A-RANK
 MySQL     : [92] █████████░░░ A-RANK
 WordPress : [98] ███████████░ S-RANK
 ```
@@ -361,6 +361,7 @@ Status: IN PROGRESS | Priority: HIGH
 <summary><h3 style="display: inline;">🎨 FRONTEND FRAMEWORKS</h3></summary>
 
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff" alt="React Native" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=00d4ff" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=ff00ff" alt="Sass" />
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=0099ff" alt="Bootstrap" />
@@ -450,6 +451,15 @@ WordPress Ecosystem: ██████████ 100%
 ```
 
 ```yaml
+React Ecosystem: █████████░ 90%
+├─ Component-Based Architecture
+├─ React Hooks & State Management
+├─ React Native Mobile Development
+├─ Sass/SCSS Integration
+└─ Responsive UI Development
+```
+
+```yaml
 E-commerce Systems: ████████░░ 95%
 ├─ WooCommerce Architecture
 ├─ Payment Gateways (Stripe/PayPal)
@@ -534,6 +544,48 @@ Multi-Platform Design: █████████░ 90%
 </pre>
 
 </div>
+
+### ⚛️ PROJECT: FABRYQUE
+**🔗 [fabryque.com](https://fabryque.com) - Coming Soon**
+```yaml
+Status     : [REDESIGN IN PROGRESS] ████████░░░░ 75%
+Type       : Modern Frontend Web Application
+Tech Stack : React | Sass | Responsive Design
+Timeline   : Built 4 years ago
+```
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=ff00ff" />
+<img src="https://img.shields.io/badge/Responsive-0d1117?style=flat-square&logo=css3&logoColor=00ff88" />
+
+```diff
++ Frontend application built with ReactJS and Sass
++ Fully responsive design for desktop and mobile
++ Modern component-based architecture
+! Original site offline - redesign launching soon
+```
+
+---
+
+### 📱 PROJECT: MOBILE APP 2026
+**Status: In Development**
+```yaml
+Status     : [IN DEVELOPMENT] ███████░░░░░ 60%
+Type       : Mobile Application
+Tech Stack : React Native | Cross-Platform
+Timeline   : 2026 Launch
+```
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Mobile-0d1117?style=flat-square&logo=android&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=ffffff" />
+
+```diff
+! [UPCOMING] Cross-platform mobile application
++ Built with React Native for iOS and Android
++ Currently in validation and development phase
++ Scheduled for 2026 launch
+```
+
+---
 
 ### 🚀 PROJECT: BRAINFACTORY
 **🔗 [brainfactory.ma](https://brainfactory.ma)**
@@ -675,7 +727,8 @@ Tech Stack : WordPress | Shopify | Plugin Development
 
 ```python
 # PROJECT STATUS REPORT
-> Total Deployed Projects: 7
+> Total Deployed Projects: 7 Live + 2 In Development
+> Tech Stack: WordPress, React, React Native, E-commerce
 > Success Rate: 100%
 > Client Satisfaction: ⭐⭐⭐⭐⭐
 > All repositories will be published soon...
@@ -696,6 +749,7 @@ Tech Stack : WordPress | Shopify | Plugin Development
 ### 📡 AVAILABLE SERVICES
 
 <img src="https://img.shields.io/badge/WordPress_Development-🟢_AVAILABLE-00ff88?style=for-the-badge&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/React_Development-🟢_AVAILABLE-00ff88?style=for-the-badge&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/WooCommerce_Projects-🟢_AVAILABLE-00ff88?style=for-the-badge&logoColor=white" alt="WooCommerce" />
 <img src="https://img.shields.io/badge/Performance_Tuning-🟢_AVAILABLE-00ff88?style=for-the-badge&logoColor=white" alt="Performance" />
 
