@@ -804,4 +804,8 @@ Technical workshops, mentoring, and community building
 ╚════════════════════════════════════════════════════════════╝
 </pre>
 
+<a href="mailto:raoudykarim@gmail.com">
+  <img src="https://img.shields.io/badge/▶_START-00ff88?style=for-the-badge&logo=mail&logoColor=black" alt="Start Button" />
+</a>
+
 </div>
