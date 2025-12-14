@@ -545,27 +545,6 @@ Multi-Platform Design: █████████░ 90%
 
 </div>
 
-### ⚛️ PROJECT: FABRYQUE
-**🔗 [fabryque.com](https://fabryque.com) - Coming Soon**
-```yaml
-Status     : [REDESIGN IN PROGRESS] ████████░░░░ 75%
-Type       : Modern Frontend Web Application
-Tech Stack : React | Sass | Responsive Design
-Timeline   : Built 4 years ago
-```
-<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=ff00ff" />
-<img src="https://img.shields.io/badge/Responsive-0d1117?style=flat-square&logo=css3&logoColor=00ff88" />
-
-```diff
-+ Frontend application built with ReactJS and Sass
-+ Fully responsive design for desktop and mobile
-+ Modern component-based architecture
-! Original site offline - redesign launching soon
-```
-
----
-
 ### 📱 PROJECT: MOBILE APP 2026
 **Status: In Development**
 ```yaml
@@ -723,6 +702,27 @@ Tech Stack : WordPress | Shopify | Plugin Development
 + Created custom plugin integration for WordPress
 + Shopify integration development
 + AI-powered features for enhanced user experience
+```
+
+---
+
+### ⚛️ PROJECT: FABRYQUE
+**🔗 [fabryque.com](https://fabryque.com) - Coming Soon**
+```yaml
+Status     : [REDESIGN IN PROGRESS] ████████░░░░ 75%
+Type       : Modern Frontend Web Application
+Tech Stack : React | Sass | Responsive Design
+Timeline   : Built 4 years ago
+```
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=ff00ff" />
+<img src="https://img.shields.io/badge/Responsive-0d1117?style=flat-square&logo=css3&logoColor=00ff88" />
+
+```diff
++ Frontend application built with ReactJS and Sass
++ Fully responsive design for desktop and mobile
++ Modern component-based architecture
+! Original site offline - redesign launching soon
 ```
 
 ```python
