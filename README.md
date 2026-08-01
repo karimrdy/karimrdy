@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0099ff&height=200&section=header&text=KARIM%20RAOUDY&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=8%2B+Years+WordPress+Master;React+%26+React+Native+Developer;S-Rank+Full-Stack+Developer;100%25+Mission+Success+Rate;Available+for+New+Quests" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=8%2B+Years+WordPress+Master;React%2C+Next.js+%26+React+Native+Developer;Building+SaaS+%26+Mobile+Apps;S-Rank+Full-Stack+Developer;100%25+Mission+Success+Rate;Available+for+New+Quests" alt="Typing SVG" />
 
 <pre>
 ╔══════════════════════════════════════════════════════════════╗
@@ -63,6 +63,7 @@ SASS/SCSS : [∞] ████████████ S-RANK
 JavaScript: [∞] ████████████ S-RANK
 
 React/RN  : [92] █████████░░░ A-RANK
+TypeScript: [88] ████████░░░░ A-RANK
 MySQL     : [92] █████████░░░ A-RANK
 WordPress : [98] ███████████░ S-RANK
 ```
@@ -331,7 +332,7 @@ Status: IN PROGRESS | Priority: HIGH
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,mysql,sass,html,css,git,figma,vscode,linux&perline=6&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,ts,react,nextjs,supabase,firebase,mysql,sass,html,css,git,figma,vscode,linux&perline=6&theme=dark"/>
 
 </p>
 
@@ -361,7 +362,9 @@ Status: IN PROGRESS | Priority: HIGH
 <summary><h3 style="display: inline;">🎨 FRONTEND FRAMEWORKS</h3></summary>
 
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
 <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff" alt="React Native" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=00d4ff" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=ff00ff" alt="Sass" />
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=0099ff" alt="Bootstrap" />
@@ -375,6 +378,8 @@ Status: IN PROGRESS | Priority: HIGH
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff" alt="Git" />
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0099ff" alt="Docker" />
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff88" alt="Node.js" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffcb2b" alt="Firebase" />
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00d4ff" alt="Linux" />
 <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37" alt="Postman" />
 
@@ -454,7 +459,9 @@ WordPress Ecosystem: ██████████ 100%
 React Ecosystem: █████████░ 90%
 ├─ Component-Based Architecture
 ├─ React Hooks & State Management
+├─ Next.js (App Router) & TypeScript
 ├─ React Native Mobile Development
+├─ Supabase / Firebase Backend Integration
 ├─ Sass/SCSS Integration
 └─ Responsive UI Development
 ```
@@ -545,23 +552,49 @@ Multi-Platform Design: █████████░ 90%
 
 </div>
 
-### 📱 PROJECT: MOBILE APP 2026
-**Status: In Development**
+### 🚗 PROJECT: CARBRANDISH
+**🔗 [carbrandish.com](https://carbrandish.com)**
 ```yaml
-Status     : [IN DEVELOPMENT] ███████░░░░░ 60%
-Type       : Mobile Application
-Tech Stack : React Native | Cross-Platform
-Timeline   : 2026 Launch
+Status     : [DEPLOYED] ████████████ LIVE
+Type       : Vehicle Wrap Advertising Platform — Website + Mobile App
+Tech Stack : HTML5/CSS3/JS | React Native (Expo) | Firebase
 ```
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00d4ff" />
 <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/Mobile-0d1117?style=flat-square&logo=android&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffcb2b" />
 <img src="https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=00ff88" />
 
 ```diff
-! [UPCOMING] Cross-platform mobile application
-+ Built with React Native for iOS and Android
-+ Currently in validation and development phase
-+ Scheduled for 2026 launch
++ Full premium website rebuild: glassmorphism navbar, video hero, auto-scroll brand marquee
++ Driver-facing mobile app now LIVE on the App Store & Google Play
++ GPS mileage tracking, campaign browser & application flow, earnings, compliance photos
++ Firebase backend (Firestore, Auth, Cloud Functions)
+```
+
+<a href="https://apps.apple.com/us/app/carbrandish/id6772312587"><img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.carbrandish.app"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
+
+---
+
+### 📨 PROJECT: BRAINFACTORY CRM
+**🔗 [crm.brainfactory.ma](https://crm.brainfactory.ma)**
+```yaml
+Status     : [DEPLOYED] ████████████ LIVE
+Type       : White-Label Multi-Tenant SaaS CRM
+Tech Stack : Next.js 16 | Supabase | WhatsApp Cloud API | AI
+```
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ecf8e" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00d4ff" />
+
+```diff
++ Unified WhatsApp + Email inbox with real-time conversations
++ CRM contacts, sales pipelines (Kanban), broadcast campaigns
++ No-code automation engine + visual multi-channel flow builder
++ AI layer (OpenAI/Anthropic/Azure/Gemini): knowledge base, suggested & auto replies
++ Multi-tenant architecture, per-org data isolation (RLS), public REST API & webhooks
++ Deployed on Hostinger VPS with CI/CD auto-deploy via GitHub Actions
 ```
 
 ---
@@ -581,6 +614,60 @@ Tech Stack : WordPress | AI & API | Adobe XD | G4
 + Digital agency platform with AI integration
 + Custom WordPress theme with API connectivity
 + Google Analytics 4 implementation
+```
+
+---
+
+### ✨ PROJECT: ECLAT AGENCY
+**🔗 [eclatagency.co](https://eclatagency.co)**
+```yaml
+Status     : [DEPLOYED] ████████████ LIVE
+Type       : Digital Agency Website (Redesign)
+Tech Stack : WordPress | Custom Theme
+```
+<img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=00d4ff" />
+
+```diff
++ Custom "Eclat" WordPress theme built from scratch
++ Case study showcase, agency page, podcast section
++ Full identity, UI/UX, SEO & ongoing maintenance
+```
+
+---
+
+### 🐎 PROJECT: ÉCURIE HCC
+**🔗 [ecuriehcc.com](https://ecuriehcc.com)**
+```yaml
+Status     : [DEPLOYED] ████████████ LIVE
+Type       : Equestrian Stable Website
+Tech Stack : WordPress | GSAP | ScrollTrigger | Lenis
+```
+<img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff88" />
+
+```diff
++ Custom WordPress theme built from Adobe XD design exports
++ GSAP + ScrollTrigger scroll animations, Lenis smooth scroll
++ Custom post types & galleries for riders and achievements
++ Fully responsive, pixel-perfect design-to-code implementation
+```
+
+---
+
+### 🏍️ PROJECT: LAS HELMET FRANCE
+**🔗 [lashelmetfrance.fr](https://lashelmetfrance.fr)**
+```yaml
+Status     : [DEPLOYED] ████████████ LIVE
+Type       : E-commerce - Motorcycle Helmets
+Tech Stack : WordPress | WooCommerce | Store Locator
+```
+<img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/WooCommerce-0d1117?style=flat-square&logo=woo&logoColor=0099ff" />
+
+```diff
++ Custom WooCommerce theme for motorcycle helmet retail
++ Ambassadors program page & store locator integration
++ Fully responsive UI/UX, SEO optimization & maintenance
 ```
 
 ---
@@ -690,7 +777,7 @@ Tech Stack : WordPress | Adobe XD/PSD
 ### 🤖 PROJECT: KUST.AI
 **🔗 [kust.ai](https://kust.ai)**
 ```yaml
-Status     : [DEPLOYED] ████████████ LIVE
+Status     : [DEPLOYED] ████████████ LIVE ON 2 MARKETPLACES
 Type       : AI Plugin Integration
 Tech Stack : WordPress | Shopify | Plugin Development
 ```
@@ -699,10 +786,14 @@ Tech Stack : WordPress | Shopify | Plugin Development
 <img src="https://img.shields.io/badge/AI_Integration-0d1117?style=flat-square&logo=openai&logoColor=ff00ff" />
 
 ```diff
-+ Created custom plugin integration for WordPress
-+ Shopify integration development
-+ AI-powered features for enhanced user experience
++ Published & live on the Shopify App Store
++ Published & live on the WordPress.org Plugin Directory
++ AI-powered chat/automation widget for e-commerce & WordPress sites
++ Publicly installable, reviewed on both marketplaces
 ```
+
+<a href="https://apps.shopify.com/kustai"><img src="https://img.shields.io/badge/Shopify_App_Store-Install-00ff88?style=for-the-badge&logo=shopify&logoColor=black" /></a>
+<a href="https://wordpress.org/plugins/kust-ai-widget/"><img src="https://img.shields.io/badge/WordPress.org-Install-00d4ff?style=for-the-badge&logo=wordpress&logoColor=black" /></a>
 
 ---
 
@@ -726,8 +817,8 @@ Tech Stack : React | Sass | Responsive Design
 
 ```python
 # PROJECT STATUS REPORT
-> Total Deployed Projects: 7 Live + 2 In Development
-> Tech Stack: WordPress, React, React Native, E-commerce
+> Total Deployed Projects: 12 Live + 1 In Development
+> Tech Stack: WordPress, React, React Native, Next.js, Supabase, E-commerce
 > Success Rate: 100%
 > Client Satisfaction: ⭐⭐⭐⭐⭐
 > All repositories will be published soon...
